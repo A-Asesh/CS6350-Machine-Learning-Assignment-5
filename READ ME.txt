@@ -1,0 +1,18 @@
+The code was run on CADE Machine 1-7
+To run the code follow the given instructions:
+3.1.1 - Program 311.py
+		Run 311_test_train.sh on cmd - TEST ON TRAIN
+		Run 311_test_test.sh on cmd - TEST ON TEST
+3.1.2 - Program 312.py
+	   Run 312_test_train.sh on cmd - TEST ON TRAIN
+	   Run 312_test_test.sh on cmd - TEST ON TEST
+3.1.3 - Program 313.py
+	   Run 313_test_train_hand.sh on cmd - TEST ON TRAIN
+	   Run 313_test_test_hand.sh on cmd - TEST ON TEST
+	   Run 313_test_train_man.sh on cmd - TEST ON TRAIN
+	   Run 313_test_test_man.sh on cmd - TEST ON TEST
+3.2.1 - Program 3.2.1.py
+		Run 321_test_train.sh on cmd - TEST ON TRAIN
+	    Run 321_test_test.sh on cmd - TEST ON TEST
+
+		

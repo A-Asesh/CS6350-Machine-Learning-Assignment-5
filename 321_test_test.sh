@@ -1,0 +1,1 @@
+python 3.2.1_partb.py train.labels train.labels

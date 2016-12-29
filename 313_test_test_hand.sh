@@ -1,0 +1,1 @@
+python 313.py train.data train.labels test.data test.labels
